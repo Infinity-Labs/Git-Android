@@ -11,11 +11,15 @@ exports.onPageLoaded = function(args) {
     pageData.set("task", "");
     pageData.set("tasks", tasks);
     page.bindingContext = pageData;
+    tasks.push({ name: "test"});
+    tasks.push({ name: "test"});
+    tasks.push({ name: "test"});
 };
 
 exports.add = function() {
 	if(pageData.get("task")){
-    tasks.push({ name: pageData.get("task") });
+    // tasks.push({ name: pageData.get("task") });
+    tasks.push({ name: "test"});
     pageData.set("task", "");
     viewModule.getViewById( page, "task" ).dismissSoftInput();
 	}

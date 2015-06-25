@@ -32,13 +32,11 @@ C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\metada
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\app.css \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\app.js \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\LICENSE \
-C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\main-page.js \
-C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\main-page.xml \
-C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\main-view-model.js \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\package.json \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tasks.js \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tasks.xml \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\views \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules\application \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules\application-settings \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules\camera \
@@ -295,6 +293,9 @@ C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tn
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules\utils\utils.js \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules\xml\package.json \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\tns_modules\xml\xml.js \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\views\main.css \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\views\main.js \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\app\views\main.xml \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\internal\prepareExtend.js \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\metadata\treeNodeStream.dat \
 C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\assets\metadata\treeStringsStream.dat \
