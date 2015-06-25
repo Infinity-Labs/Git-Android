@@ -1,0 +1,21 @@
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes.dex : \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infinitylabs\android\simplegit\BuildConfig.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infinitylabs\android\simplegit\R$attr.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infinitylabs\android\simplegit\R$drawable.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infinitylabs\android\simplegit\R$string.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infinitylabs\android\simplegit\R$style.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infinitylabs\android\simplegit\R.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infintylabs\android\gitandroid\BuildConfig.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infintylabs\android\gitandroid\R$attr.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infintylabs\android\gitandroid\R$drawable.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infintylabs\android\gitandroid\R$string.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infintylabs\android\gitandroid\R$style.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\com\infintylabs\android\gitandroid\R.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\org\nativescript\gitandroid\BuildConfig.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\org\nativescript\gitandroid\R$attr.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\org\nativescript\gitandroid\R$drawable.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\org\nativescript\gitandroid\R$string.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\org\nativescript\gitandroid\R$style.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\classes\org\nativescript\gitandroid\R.class \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\dexedLibs\nativescript-ff2199f0573da3aaac1e365f10dbe193.jar \
+C:\Users\Rafi Khan\Documents\Android\Git-Android\platforms\android\bin\dexedLibs\android-support-v4-2e49c9739daa01900502c13fc663e14a.jar \
